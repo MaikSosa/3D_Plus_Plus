@@ -1,32 +1,32 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Hi! In the spirit of coding for fun more than learning. I tried creating something personal that we can be interested 
+and passionate about. Nothing to serious and yet powerful enough to teach new skills. Remember for once how in the 80s 
+and 90s, originated programmers. This project is for my own amusement touching for the first time graphics and the 
+creation of images using C++. Not only that but animating a 2D image and make it look 3D.
 
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/WsshSnc9ZDY)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+- CLion 2024.1.4
+- SDL2 
+- Runtime version: 17.0.11+1-b1207.24 amd64
+- Windows 10.0
 
-{Describe the programming language that you used and any libraries.}
+- AMD Radeon 7900 XTX
+- Intel i5 13600K
+- Memory 64 GB
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
-
+- [HOW TO: Setup CLion for SDL2 Gamedev](https://www.youtube.com/watch?v=N5CZLSVU0DA)
+- [Rotation Matrix math](https://en.wikipedia.org/wiki/Rotation_matrix)
+- [Print number and change number on runtime](https://discourse.libsdl.org/t/in-c-sdl2-how-would-i-print-a-random-number-and-change-that-number-while-running/27564)
+- [3D Grapics with Draw Pixel](https://www.youtube.com/watch?v=kdRJgYO1BJM&list=PLYmIsLVSssdJZT2xID8XKqDId11yvlQnh&index=5)
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Make the color generation gradient instead of one color at the time. 
+- While the shape changes color, the amount of times it does is still way to fast. An improvement would be to slow the change in colors while keeping the refresh rate intact.
+- Have new shapes and forms.
+- Make the color, background or shape change with music. (Make it reactive)
